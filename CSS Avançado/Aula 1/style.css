@@ -1,0 +1,21 @@
+:root {
+    --color-primary:rgb(0, 0, 0);
+    --color-secondary:rgb(47, 194, 42);
+}
+
+h1 {
+    color: var(--color-primary) ;
+}
+
+h2 p {
+    color: var(--color-secondary) ;
+}
+
+p {
+    color: var(--color-primary) ;
+}
+
+button {
+    background:  var(--color-secondary) ;
+    color: white;
+}
